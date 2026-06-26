@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1771856483687,
+      "title": "Grafico general",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": true,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#universidad  ",
+            "color": {
+              "a": 1,
+              "rgb": 382463
+            }
+          },
+          {
+            "query": "tag:#personal  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#V_semestre  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "tag:#VI_semestre",
+            "color": {
+              "a": 1,
+              "rgb": 5431447
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 3,
+        "nodeSizeMultiplier": 2.02281704781705,
+        "lineSizeMultiplier": 0.474376299376299,
+        "collapse-forces": true,
+        "centerStrength": 0.720893970893971,
+        "repelStrength": 20,
+        "linkStrength": 1,
+        "linkDistance": 500,
+        "scale": 0.11003576262696221,
+        "close": true
+      }
+    }
+  ]
+}
