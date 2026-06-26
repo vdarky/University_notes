@@ -1,0 +1,5 @@
+hardware
+TIPO
+front-matter
+responde
+Responsable
