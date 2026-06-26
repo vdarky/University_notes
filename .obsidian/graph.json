@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#universidad  ",
+      "color": {
+        "a": 1,
+        "rgb": 4550520
+      }
+    },
+    {
+      "query": "tag:#personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#V_semestre  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701261
+      }
+    },
+    {
+      "query": "tag:#VI_semestre",
+      "color": {
+        "a": 1,
+        "rgb": 65403
+      }
+    },
+    {
+      "query": "tag:#IV_semestre",
+      "color": {
+        "a": 1,
+        "rgb": 5237
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 2.02281704781705,
+  "lineSizeMultiplier": 0.474376299376299,
+  "collapse-forces": false,
+  "centerStrength": 0.720893970893971,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.11960571590931518,
+  "close": true
+}
