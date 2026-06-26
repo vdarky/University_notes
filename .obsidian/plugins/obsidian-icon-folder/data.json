@@ -1,0 +1,410 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBoxGlyph",
+      "LiBook",
+      "LiLeaf",
+      "LiNotepadText",
+      "LiAlertCircle",
+      "LiTrainTrack",
+      "LiLanguages"
+    ],
+    "recentlyUsedIconsSize": 7,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Proyectos personales": {
+    "iconName": "LiArchive",
+    "iconColor": "#ffffff"
+  },
+  "Calculo y fisica/Formulas reducidas.md": {
+    "iconName": "LiArrowUpRightFromSquare",
+    "iconColor": "#1f8bff"
+  },
+  "Calculo y fisica/Calculo/Algebra Lineal": {
+    "iconName": "LiBook",
+    "iconColor": "#ff0000"
+  },
+  "Calculo y fisica/Calculo/Calculo Diferencial": {
+    "iconName": "LiBook",
+    "iconColor": "#ff0000"
+  },
+  "Calculo y fisica/Calculo/Calculo Integral": {
+    "iconName": "LiBook",
+    "iconColor": "#ff0000"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado": {
+    "iconName": "LiBook",
+    "iconColor": "#ff0000"
+  },
+  "Calculo y fisica/Fisica/Fisica I": {
+    "iconName": "LiBook",
+    "iconColor": "#00b3ff"
+  },
+  "Calculo y fisica/Fisica/Fisica II": {
+    "iconName": "LiBook",
+    "iconColor": "#00b3ff"
+  },
+  "Calculo y fisica/Fisica/Fisica III": {
+    "iconName": "LiBook",
+    "iconColor": "#00b3ff"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Electrostática y ley de coulomb.md": {
+    "iconName": "LiLinkGlyph",
+    "iconColor": "#fddd68"
+  },
+  "Calculo y fisica/Calculo": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ff0000"
+  },
+  "Calculo y fisica/Fisica": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#00b3ff"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Campo eléctrico.md": {
+    "iconName": "LiAntenna",
+    "iconColor": "#ffae00"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Clase 21-03-2025.md": {
+    "iconName": "LiArrowRight",
+    "iconColor": "#ff8585"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Diferencia de potencial.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#ffc800"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Energía potencial de un Dipolo.md": {
+    "iconName": "LiBadge",
+    "iconColor": "#ffae00"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Ley de gauss.md": {
+    "iconName": "LiAlertTriangle",
+    "iconColor": "#ffbb00"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Funciones escalares.md": {
+    "iconName": "LiPlus",
+    "iconColor": "#ffc800"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Funciones vectoriales.md": {
+    "iconName": "LiMinus",
+    "iconColor": "#ffae00"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Introducción al calculo vectorial.md": {
+    "iconName": "LiDivide",
+    "iconColor": "#ffc800"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Derivadas parciales.md": {
+    "iconName": "LiBadge",
+    "iconColor": "#ffc800"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Regla de la cadena.md": {
+    "iconName": "LiActivity",
+    "iconColor": "#ffdd00"
+  },
+  "Programación y afines/Estructuras de información": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Programación y afines": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#4400ff"
+  },
+  "Electronica/Arquitectura de computadores": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Electronica": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ff8800"
+  },
+  "Calculo y fisica": {
+    "iconName": "LiCalculator",
+    "iconColor": "#ffffff"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Derivadas direccionales.md": {
+    "iconName": "LiAperture",
+    "iconColor": "#ffc800"
+  },
+  "Programación y afines/Programación II": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Excalidraw": "LiPen",
+  "Programación y afines/Programación II/Encapsulamiento.md": {
+    "iconName": "LiPackage",
+    "iconColor": "#fff700"
+  },
+  "Programación y afines/Programación II/Herencia.md": {
+    "iconName": "LiComputer",
+    "iconColor": "#fff800"
+  },
+  "Programación y afines/Programación II/Programación Orientada a Objetos (P.O.O).md": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#fff800"
+  },
+  "Programación y afines/Estructuras de información/Introducción a estructuras de información.md": {
+    "iconName": "LiAreaChart",
+    "iconColor": "#ffc800"
+  },
+  "Calculo y fisica/Fisica/Fisica II/Energia mecanica.md": {
+    "iconName": "LiAnvil",
+    "iconColor": "#ffbb00"
+  },
+  "Programación y afines/Programación II/Interfaz grafica de usuario (G.U.I).md": {
+    "iconName": "LiGitBranchPlus",
+    "iconColor": "#ffd505"
+  },
+  "Calculo y fisica/Fisica/Fisica II/Introducción a física II.md": {
+    "iconName": "LiBadge",
+    "iconColor": "#ffc800"
+  },
+  "Adjuntos": {
+    "iconName": "LiImage",
+    "iconColor": "#ffffff"
+  },
+  "Calculo y fisica/Fisica/Fisica II/Onda estacionaria.md": {
+    "iconName": "LiVariable",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Conversión - Operación entre binarios.md": {
+    "iconName": "LiDiamondPercent",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Divisor de frecuencias .excalidraw.md": {
+    "iconName": "LiNfc",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Hardware básico.md": {
+    "iconName": "LiHardDriveDownload",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Introducción a la arquitectura de computadores.md": {
+    "iconName": "LiCircleUser",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Multiplexación y Demultiplexación.md": {
+    "iconName": "LiPowerCircle",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Sistemas de numeración.md": {
+    "iconName": "LiBinary",
+    "iconColor": "#ffd500"
+  },
+  "Calculo y fisica/Calculo/Calculo Integral/Introducción al calculo integral.md": {
+    "iconName": "LiDiamondPercent",
+    "iconColor": "#ffd500"
+  },
+  "Calculo y fisica/Calculo/Calculo Integral/Criterio de cauchy.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Fundamentos de electronica": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Electronica/Pensamiento sistemico": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Programación y afines/Programación I": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Programación y afines/Pensamiento algoritmico": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Calculo y fisica/Fisica/Fisica III/Capacitores.md": {
+    "iconName": "LiMicrochip",
+    "iconColor": "#ffc800"
+  },
+  "Programación y afines/Lenguajes de programación": {
+    "iconName": "LiLanguages",
+    "iconColor": "#4400ff"
+  },
+  "Electronica/Arquitectura de computadores/Buses.md": {
+    "iconName": "LiMicrochip",
+    "iconColor": "#ffd500"
+  },
+  "Lenguaje": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#70ff7a"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Integrales iteradas.md": {
+    "iconName": "LiTrainTrack",
+    "iconColor": "#ffc800"
+  },
+  "Calculo y fisica/Calculo/Calculo Multivariado/Integrales dobles.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#ffc800"
+  },
+  "Electronica/Arquitectura de computadores/Administrador de perifericos.md": {
+    "iconName": "LiTrainTrack",
+    "iconColor": "#ffc800"
+  },
+  "Programación y afines/Estructuras de información/Arboles binarios de búsqueda ABB - AVL.md": {
+    "iconName": "LiActivitySquare",
+    "iconColor": "#ffc800"
+  },
+  "Electronica/Arquitectura de computadores/Compuertas lógicas.md": {
+    "iconName": "LiComponent",
+    "iconColor": "#ffd500"
+  },
+  "Electronica/Arquitectura de computadores/Microcontroladores": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Electronica/Arquitectura de computadores/Arquitectura_Cuantica lectura y analisis.pdf": "LiNotepadText",
+  "Calculo y fisica/Calculo/Ecuaciones Diferenciales": {
+    "iconName": "LiBook",
+    "iconColor": "#ff0000"
+  },
+  "Calculo y fisica/Calculo/Ecuaciones Diferenciales/Introduccion a las ecuaciones diferenciales.md": {
+    "iconName": "LiNotepadText",
+    "iconColor": "#ffc800"
+  },
+  "Electronica/Sistemas operativos": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Programación y afines/Bases de datos": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Programación y afines/Bases de datos/Vistas.md": {
+    "iconName": "LiLeaf",
+    "iconColor": "#ffc800"
+  },
+  "Programación y afines/Estructuras de información/Colas.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Colecciones.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Estructura de datos en java Joyanes 1ed.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Grafos.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Listas circulares simplemente enlazadas.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/listas doblemente enlazadas.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Listas enlazadas.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Memoria Dinámica.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Pilas.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Recursividad.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/TDA.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Árboles binarios de búsqueda.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Árboles.pdf": "LiNotepadText",
+  "Programación y afines/Estructuras de información/Algoritmos de ordenamiento.pdf": "LiNotepadText",
+  "Programación y afines/Bases de datos/Bases de datos ddl consulta.pdf": "LiNotepadText",
+  "Programación y afines/Bases de datos/Funciones de agregacion.pdf": "LiNotepadText",
+  "Programación y afines/Bases de datos/Procedimientos almacenados (Stored procedures).pdf": "LiNotepadText",
+  "Programación y afines/Bases de datos/Reglas de integridad bases de datos.pdf": "LiNotepadText",
+  "Lenguaje/Ingles/Presente perfecto.md": {
+    "iconName": "LiLanguages",
+    "iconColor": "#ffc800"
+  },
+  "Lenguaje/Ingles": {
+    "iconName": "LiBook",
+    "iconColor": "#70ff7a"
+  },
+  "Electronica/Arquitectura de computadores/Microcontroladores/Arduino.pdf": "LiNotepadText",
+  "Electronica/Arquitectura de computadores/Microcontroladores/BananaPi.pdf": "LiNotepadText",
+  "Electronica/Arquitectura de computadores/Microcontroladores/Beaglebone.pdf": "LiNotepadText",
+  "Electronica/Arquitectura de computadores/Microcontroladores/ESP32.pdf": "LiNotepadText",
+  "Electronica/Arquitectura de computadores/Microcontroladores/Orange Pi.pdf": "LiNotepadText",
+  "Electronica/Arquitectura de computadores/Microcontroladores/Raspberry Pi.pdf": "LiNotepadText",
+  "Electronica/Arquitectura de computadores/Microcontroladores/Tinyfox.pdf": "LiNotepadText",
+  "Electronica/Networking": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Calculo y fisica/Calculo/Matematicas especiales": {
+    "iconName": "LiBook",
+    "iconColor": "#ff0000"
+  },
+  "Programación y afines/Ingenieria de software II": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Programación y afines/Ingenieria de software I": {
+    "iconName": "LiBook",
+    "iconColor": "#4400ff"
+  },
+  "Programación y afines/Ingenieria de software II/SCRUMstudy-SBOK-Guide-5th-Edition-Spanish.pdf": "LiNotepadText",
+  "Electronica/Comunicación de datos": {
+    "iconName": "LiBook",
+    "iconColor": "#ff8800"
+  },
+  "Teoria, Administración e investigación": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Administración": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Investigación": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Teoria de ingenieria": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Investigación/Guía de normas APA.pdf": "LiNotepadText",
+  "Teoria, Administración e investigación/Administración/Fundamentos administración": {
+    "iconName": "LiBook",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Administración/Planeación estrategica": {
+    "iconName": "LiBook",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Investigación/CTI": {
+    "iconName": "LiBoxGlyph",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Teoria de ingenieria/Fundamentos de ingenieria": {
+    "iconName": "LiBook",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Teoria de ingenieria/Sistemas de información": {
+    "iconName": "LiBook",
+    "iconColor": "#ffa3ff"
+  },
+  "Teoria, Administración e investigación/Administración/Fundamentos administración/Diagrama de red P.E.R.T.md": {
+    "iconName": "LiAirplay",
+    "iconColor": "#ffc800"
+  },
+  "Teoria, Administración e investigación/Administración/Fundamentos administración/Organización.md": {
+    "iconName": "LiAlertCircle",
+    "iconColor": "#ffc800"
+  },
+  "Teoria, Administración e investigación/Investigación/CTI/Banco de problemas UdeC.pdf": "LiNotepadText",
+  "Teoria, Administración e investigación/Administración/Planeación estrategica/Análisis PORTER.md": "LiLeaf",
+  "Teoria, Administración e investigación/Administración/Planeación estrategica/Matriz POAM.md": "LiLeaf",
+  "Electronica/Networking/Configuración Router.pdf": "LiNotepadText",
+  "Electronica/Networking/Enrutamiento Static.pdf": "LiNotepadText",
+  "Electronica/Networking/Seguridad mediante dirección MAC.pdf": "LiNotepadText",
+  "Electronica/Networking/Enrutamiento RIP.pdf": "LiNotepadText",
+  "Electronica/Networking/IoT simulación.pdf": "LiNotepadText",
+  "Electronica/Networking/IPv6.pdf": "LiNotepadText",
+  "Electronica/Networking/Servidores Web, DNS, E mail, FTP.pdf": "LiNotepadText"
+}
