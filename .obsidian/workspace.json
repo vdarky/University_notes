@@ -11,10 +11,12 @@
             "id": "993b08ea40592d28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "pdf",
+              "state": {
+                "file": "libros/python-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "python-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2"
             }
           }
         ]
@@ -213,7 +215,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4213e2d255f705ea",
+  "active": "993b08ea40592d28",
   "lastOpenFiles": [
     "Sin título.canvas",
     "Drawing 2026-02-25 07.43.40.excalidraw.md",
