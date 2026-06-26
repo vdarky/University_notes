@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "2f04f93443d44697",
+    "type": "split",
+    "children": [
+      {
+        "id": "a242b461c8808926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "993b08ea40592d28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6ac73c651264232",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f93852d852cdf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54bc21dc087b599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6eb4712b01dc5d4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#universidad",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "51de19155b8100b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "05fac8e677b768d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e2bbd1265490a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a62049efd8752a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "271ba07c09f6b67d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teoria, Administración e investigación/Teoria de ingenieria/Sistemas de información/Introducción a los sistemas de información.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Introducción a los sistemas de información"
+            }
+          },
+          {
+            "id": "3c65d14b957068ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "49a8ae2c2d12ca27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Teoria, Administración e investigación/Teoria de ingenieria/Sistemas de información/Introducción a los sistemas de información.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Introducción a los sistemas de información"
+            }
+          },
+          {
+            "id": "56a63d61f067b020",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4213e2d255f705ea",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          },
+          {
+            "id": "b2a64b711cadf478",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          },
+          {
+            "id": "4e794fb59772199d",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mathpad:Open Mathpad": false,
+      "iconic:Abrir libro de reglas": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "4213e2d255f705ea",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "Drawing 2026-02-25 07.43.40.excalidraw.md",
+    "Reglas.md",
+    "Electronica/Arquitectura de computadores/Arquitectura_Cuantica lectura y analisis.pdf",
+    "Electronica/Arquitectura de computadores/Administrador de perifericos.md",
+    "Calculo y fisica/Calculo/Algebra Lineal/Introducción al algebra lineal.md",
+    "Calculo y fisica/Calculo/Calculo Integral/Introducción al calculo integral.md",
+    "Calculo y fisica/Calculo/Calculo Integral/Criterio de cauchy.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Regla de la cadena.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Introducción al calculo vectorial.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Integrales iteradas.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Integrales dobles.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Funciones vectoriales.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Funciones escalares.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Derivadas parciales.md",
+    "Calculo y fisica/Calculo/Calculo Multivariado/Derivadas direccionales.md",
+    "Electronica/Networking/Servidores Web, DNS, E mail, FTP.pdf",
+    "Electronica/Networking/IoT simulación.pdf",
+    "Electronica/Networking/Configuración Router.pdf",
+    "Electronica/Networking/Routers.md",
+    "Electronica/Networking/Subnetting.md",
+    "Electronica/Networking/Clases IPv4.md",
+    "Electronica/Networking/Topologias.md",
+    "Electronica/Networking/Seguridad mediante dirección MAC.pdf",
+    "Electronica/Networking/Enrutamiento Static.pdf",
+    "Electronica/Networking/IPv6.pdf",
+    "Programación y afines/Ingenieria de software II/API - REST.md",
+    "Electronica/Arquitectura de computadores/Buses.md",
+    "Electronica/Arquitectura de computadores/Microcontroladores/Arduino.pdf",
+    "Electronica/Sistemas operativos/Revisión de redes.md",
+    "Electronica/Sistemas operativos/Memoria RAM.md",
+    "Electronica/Sistemas operativos/Maquinas virtuales.md",
+    "Electronica/Sistemas operativos/Clase 29-08-25.md",
+    "Programación y afines/Programación II/Encapsulamiento.md",
+    "Programación y afines/Bases de datos/210927124637-Manual MySQL (1).pdf",
+    "Programación y afines/Bases de datos/Bases de datos ddl consulta.pdf",
+    "Adjuntos/Pasted image 20260314211541.png",
+    "Adjuntos/Pasted image 20260314205136.png",
+    "Adjuntos/Pasted image 20260225074711.png",
+    "Sin título 1.canvas",
+    "Electronica/Networking/Sin título.canvas",
+    "Electronica/Networking/Sin título 1.canvas",
+    "Adjuntos/Pasted image 20260223112302.png",
+    "Adjuntos/Pasted image 20260223112246.png",
+    "Adjuntos/Pasted image 20260223112223.png",
+    "Adjuntos/Pasted image 20260223103746.png",
+    "Adjuntos/Pasted image 20260223103602.png",
+    "Adjuntos/Pasted image 20260223103259.png",
+    "Adjuntos/Pasted image 20260223103003.png"
+  ]
+}
